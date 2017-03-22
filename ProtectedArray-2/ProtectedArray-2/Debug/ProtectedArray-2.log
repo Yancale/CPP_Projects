@@ -1,0 +1,8 @@
+﻿  ProtectedArray-2.cpp
+  Generating Code...
+d:\my files\documents\visual studio 2015\projects\protectedarray-2\protectedarray-2\protectedarrayiter.h(34): warning C4172: returning address of local variable or temporary: temp
+  Skipping... (no relevant changes detected)
+  ProtectedArrayIter.cpp
+  ProtectedArray.cpp
+  ProtectedArray-2.vcxproj -> D:\My Files\Documents\Visual Studio 2015\Projects\ProtectedArray-2\Debug\ProtectedArray-2.exe
+  ProtectedArray-2.vcxproj -> D:\My Files\Documents\Visual Studio 2015\Projects\ProtectedArray-2\Debug\ProtectedArray-2.pdb (Full PDB)
